@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RookieRider.Core/1.0.0": {
+        "dependencies": {
+          "RookieRider.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "RookieRider.Core.dll": {}
+        }
+      },
+      "RookieRider.Infrastructure/1.0.0": {
+        "runtime": {
+          "RookieRider.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RookieRider.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RookieRider.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

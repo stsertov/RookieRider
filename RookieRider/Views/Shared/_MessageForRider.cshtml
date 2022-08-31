@@ -1,0 +1,8 @@
+﻿@if (ViewData["MessageToShow"] != null) {
+    <script>
+    $(function(){ 
+        toastr.options["positionClass"] = "toast-bottom-right"
+        toastr.success('@ViewData["MessageToShow"]?.ToString()')
+    })
+    </script>
+} 

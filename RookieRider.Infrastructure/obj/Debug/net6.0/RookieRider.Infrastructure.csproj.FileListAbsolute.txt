@@ -1,0 +1,12 @@
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\bin\Debug\net6.0\RookieRider.Infrastructure.deps.json
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\bin\Debug\net6.0\RookieRider.Infrastructure.dll
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\bin\Debug\net6.0\RookieRider.Infrastructure.pdb
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\obj\Debug\net6.0\RookieRider.Infrastructure.csproj.AssemblyReference.cache
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\obj\Debug\net6.0\RookieRider.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\obj\Debug\net6.0\RookieRider.Infrastructure.AssemblyInfoInputs.cache
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\obj\Debug\net6.0\RookieRider.Infrastructure.AssemblyInfo.cs
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\obj\Debug\net6.0\RookieRider.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\obj\Debug\net6.0\RookieRider.Infrastructure.dll
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\obj\Debug\net6.0\refint\RookieRider.Infrastructure.dll
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\obj\Debug\net6.0\RookieRider.Infrastructure.pdb
+C:\ASP Projects\RookieRider\RookieRider\RookieRider.Infrastructure\obj\Debug\net6.0\ref\RookieRider.Infrastructure.dll
