@@ -67,8 +67,8 @@ C:\ASP Projects\RookieRider\RookieRider\RookieRider\obj\Debug\net6.0\refint\Rook
 C:\ASP Projects\RookieRider\RookieRider\RookieRider\obj\Debug\net6.0\RookieRider.pdb
 C:\ASP Projects\RookieRider\RookieRider\RookieRider\obj\Debug\net6.0\RookieRider.genruntimeconfig.cache
 C:\ASP Projects\RookieRider\RookieRider\RookieRider\obj\Debug\net6.0\ref\RookieRider.dll
+C:\ASP Projects\RookieRider\RookieRider\RookieRider\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout unused.cshtml.rz.scp.css
 C:\ASP Projects\RookieRider\RookieRider\RookieRider\bin\Debug\net6.0\RookieRider.Core.dll
 C:\ASP Projects\RookieRider\RookieRider\RookieRider\bin\Debug\net6.0\RookieRider.Infrastructure.dll
 C:\ASP Projects\RookieRider\RookieRider\RookieRider\bin\Debug\net6.0\RookieRider.Core.pdb
 C:\ASP Projects\RookieRider\RookieRider\RookieRider\bin\Debug\net6.0\RookieRider.Infrastructure.pdb
-C:\ASP Projects\RookieRider\RookieRider\RookieRider\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout unused.cshtml.rz.scp.css

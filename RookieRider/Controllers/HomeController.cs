@@ -2,6 +2,7 @@
 {
     using Microsoft.AspNetCore.Mvc;
     using RookieRider.Models;
+    using RookieRider.Utility;
     using System.Diagnostics;
 
     public class HomeController : Controller
@@ -15,7 +16,7 @@
 
         public IActionResult Index()
         {
-            ViewData["MessageToShow"] = "Succes! Hello Rider!";
+            ViewData["WelcomeMessage"] = $"Hello, Rider! {Emoji.V}";
             return View();
         }
 

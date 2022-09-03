@@ -6,51 +6,11 @@
   ],
   "Root": {
     "Children": {
-      "404.html": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "404.html"
-        },
-        "Patterns": null
-      },
-      "about.html": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "about.html"
-        },
-        "Patterns": null
-      },
       "android-chrome-512x512 (1).ico": {
         "Children": null,
         "Asset": {
           "ContentRootIndex": 0,
           "SubPath": "android-chrome-512x512 (1).ico"
-        },
-        "Patterns": null
-      },
-      "booking.html": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "booking.html"
-        },
-        "Patterns": null
-      },
-      "car-repair-html-template.jpg": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "car-repair-html-template.jpg"
-        },
-        "Patterns": null
-      },
-      "contact.html": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "contact.html"
         },
         "Patterns": null
       },
@@ -94,14 +54,6 @@
       },
       "img": {
         "Children": {
-          "about.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/about.jpg"
-            },
-            "Patterns": null
-          },
           "ducatitransparent.png": {
             "Children": null,
             "Asset": {
@@ -149,113 +101,9 @@
               "SubPath": "img/monsteronvacation.png"
             },
             "Patterns": null
-          },
-          "service-1.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/service-1.jpg"
-            },
-            "Patterns": null
-          },
-          "service-2.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/service-2.jpg"
-            },
-            "Patterns": null
-          },
-          "service-3.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/service-3.jpg"
-            },
-            "Patterns": null
-          },
-          "service-4.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/service-4.jpg"
-            },
-            "Patterns": null
-          },
-          "team-1.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/team-1.jpg"
-            },
-            "Patterns": null
-          },
-          "team-2.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/team-2.jpg"
-            },
-            "Patterns": null
-          },
-          "team-3.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/team-3.jpg"
-            },
-            "Patterns": null
-          },
-          "team-4.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/team-4.jpg"
-            },
-            "Patterns": null
-          },
-          "testimonial-1.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/testimonial-1.jpg"
-            },
-            "Patterns": null
-          },
-          "testimonial-2.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/testimonial-2.jpg"
-            },
-            "Patterns": null
-          },
-          "testimonial-3.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/testimonial-3.jpg"
-            },
-            "Patterns": null
-          },
-          "testimonial-4.jpg": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "img/testimonial-4.jpg"
-            },
-            "Patterns": null
           }
         },
         "Asset": null,
-        "Patterns": null
-      },
-      "index.html": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "index.html"
-        },
         "Patterns": null
       },
       "js": {
@@ -1064,14 +912,6 @@
         "Asset": null,
         "Patterns": null
       },
-      "LICENSE.txt": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "LICENSE.txt"
-        },
-        "Patterns": null
-      },
       "plugins": {
         "Children": {
           "bootstrap": {
@@ -1244,14 +1084,6 @@
           }
         },
         "Asset": null,
-        "Patterns": null
-      },
-      "READ-ME.txt": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "READ-ME.txt"
-        },
         "Patterns": null
       },
       "scss": {
@@ -1956,30 +1788,6 @@
           }
         },
         "Asset": null,
-        "Patterns": null
-      },
-      "service.html": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "service.html"
-        },
-        "Patterns": null
-      },
-      "team.html": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "team.html"
-        },
-        "Patterns": null
-      },
-      "testimonial.html": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 0,
-          "SubPath": "testimonial.html"
-        },
         "Patterns": null
       },
       "Identity": {

@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-RookieRider-9EC2B238-992F-4ED0-89D3-3976BEEA16E6</UserSecretsId>
+    <UserSecretsId>aspnet-RookieRider-2F2740D2-3729-4199-B33B-6A7CC0EE35CF</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
@@ -19,6 +19,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RookieRider.Core\RookieRider.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Utility\" />
   </ItemGroup>
 
 </Project>
