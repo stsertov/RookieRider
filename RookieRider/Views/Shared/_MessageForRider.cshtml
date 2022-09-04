@@ -1,9 +1,23 @@
 ﻿@if (ViewData["WelcomeMessage"] != null)
 {
     <script>
-    $(function(){ 
-        toastr.options["positionClass"] = "toast-bottom-right"
-        toastr.success('@ViewData["WelcomeMessage"]?.ToString()')
-    })
+        $(function () {
+            toastr.options["positionClass"] = "toast-bottom-right"
+            toastr.success('@ViewData["WelcomeMessage"]?.ToString()')
+        })
+    </script>
+}
+@if (ViewData["ErrorMessage"] != null)
+{
+    <script>
+        $(function () {
+            toastr.options["positionClass"] = "toast-bottom-right"
+
+            setTimeout(() => toastr.error('@ViewData["ErrorMessage"]?.ToString()'), 1000)
+
+            @*let toasterError = () => toastr.error('@ViewData["ErrorMessage"]?.ToString()');
+
+            setTimeout(toasterError, 1000)*@
+            })
     </script>
 } 
