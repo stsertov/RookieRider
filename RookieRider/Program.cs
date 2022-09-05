@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using RookieRider.Core.Constants;
 using RookieRider.Data;
 using RookieRider.ModelBinders;
 
@@ -18,6 +19,7 @@ builder.Services.AddControllersWithViews()
     {
         options.ModelBinderProviders.Insert(0, new DecimalModelBinderProvider());
         options.ModelBinderProviders.Insert(1, new DoubleModelBinderProvider());
+        options.ModelBinderProviders.Insert(2, new DateTimeModelBinderProvider(FormatConstants.dateFormat));
     });
 
 var app = builder.Build();
